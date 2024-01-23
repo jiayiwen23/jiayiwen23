@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jiayiwen23
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning computer science in Northeastern University Vancouver.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for SDE intern/coop.
 - 📫 How to reach me ...
 
 <!---
