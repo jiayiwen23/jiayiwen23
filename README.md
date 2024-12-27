@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Jiayi Wen.
 - 🌍 I'm based in Vancouver, BC
-- 👀 I’m a new graduate from Northeastern University Vancouver, with a master's degree in Computer Science.
+- 👀 I’m a new graduate from Northeastern University, with a master's degree in Computer Science.
+- 🧠 I work on Javscript, Python, Java, ReactJs, ExpressJs, MongoDB, MySQL.
 - 🌱 I’m looking for entry level SDE position.
 - 💞️ I’m interested in swimming, yoga and hiking.
 - 📫 Let's connect on LinkedIn [💙](https://www.linkedin.com/in/jiayi-wen-northeastern/)
